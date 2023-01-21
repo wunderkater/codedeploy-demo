@@ -1,9 +1,3 @@
-#--------------------------------------------------------------
-# Simple AWS CodeDeploy Config File
-#
-# Copyleft (c) by Denis Astahov
-#--------------------------------------------------------------
-
 version: 0.0
 os     : windows
 files:
